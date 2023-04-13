@@ -1,0 +1,7 @@
+{
+  "name": "NF7 QR Scanner",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
